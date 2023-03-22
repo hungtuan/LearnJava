@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Bai12 {
     public static void main(String[] args) {
-        //nhap diem vao ban phim
+        //nhap diem trung binh vao ban phim
         float dtb;
         Scanner sc = new Scanner(System.in);
         System.out.println("Nhap vao diem trung binh:");
